@@ -1,5 +1,8 @@
 1This is from work branch
 2
+=======
+1
+2 This is from release branch
 3
 4This is again from work branch
 5
